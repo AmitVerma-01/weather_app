@@ -1,9 +1,3 @@
-Create a config.js file right next to index.html and add your API key there:
-
-    const config = {
-    apiKey: "your_api_key",
-    };
-
 Use OpenWeatherMap for free API: https://openweathermap.org/api
 
 
